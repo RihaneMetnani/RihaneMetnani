@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RihaneMetnani
-- 👀 I’m interested in programing and 
+- 👀 I’m interested in programing and collaborating
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on : any project related to data science 
 - 📫 How to reach me:  linkedin.com/in/metnani-rihane-b769a51b9
